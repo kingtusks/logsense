@@ -5,3 +5,5 @@ langchain
 langchain-ollama
 discord.py
 slack-bolt
+docker
+paramiko
