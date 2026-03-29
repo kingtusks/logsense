@@ -1,0 +1,6 @@
+fastapi[standard]
+python-decouple
+langchain
+langchain-ollama
+discord.py
+slack-bolt
